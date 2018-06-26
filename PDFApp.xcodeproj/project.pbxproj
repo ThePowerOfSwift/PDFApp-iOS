@@ -12,6 +12,7 @@
 		ED9123AC20E1B422008F8899 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ED9123AA20E1B422008F8899 /* Main.storyboard */; };
 		ED9123AE20E1B428008F8899 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ED9123AD20E1B428008F8899 /* Assets.xcassets */; };
 		ED9123B120E1B428008F8899 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ED9123AF20E1B428008F8899 /* LaunchScreen.storyboard */; };
+		ED9123BD20E1B7CB008F8899 /* sample.pdf in Resources */ = {isa = PBXBuildFile; fileRef = ED9123BC20E1B7CA008F8899 /* sample.pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		ED9123AD20E1B428008F8899 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ED9123B020E1B428008F8899 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ED9123B220E1B428008F8899 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ED9123BC20E1B7CA008F8899 /* sample.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = sample.pdf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				ED9123A620E1B422008F8899 /* AppDelegate.swift */,
 				ED9123A820E1B422008F8899 /* ViewController.swift */,
+				ED9123BC20E1B7CA008F8899 /* sample.pdf */,
 				ED9123AA20E1B422008F8899 /* Main.storyboard */,
 				ED9123AD20E1B428008F8899 /* Assets.xcassets */,
 				ED9123AF20E1B428008F8899 /* LaunchScreen.storyboard */,
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ED9123BD20E1B7CB008F8899 /* sample.pdf in Resources */,
 				ED9123B120E1B428008F8899 /* LaunchScreen.storyboard in Resources */,
 				ED9123AE20E1B428008F8899 /* Assets.xcassets in Resources */,
 				ED9123AC20E1B422008F8899 /* Main.storyboard in Resources */,
